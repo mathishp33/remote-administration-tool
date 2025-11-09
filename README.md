@@ -4,8 +4,9 @@ This software is intended for authorized use only. Unauthorized access or survei
 
 # Usage
 
+→ Modifiy the ip address variable in client.py to match your server/pc ip address 
 
-→ Start both main.py and client.py scripts (set the server ip in the client's file)
+↳ Start both main.py and client.py scripts (set the server ip in the client's file)
 
 ↳ Click on "Connection"
 
