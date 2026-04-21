@@ -77,7 +77,7 @@ you can do it using pip :
 comments :
 
     #this a comment
-    //this is also a command
+    //this is also a comment
 
 change directory : 
 
